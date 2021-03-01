@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+    text-align: left;
+
+}
+
+.heading h3{
+    font-size: 20px;
+    display: inline;
+}
+
+#instruction_b{
+    float: right;
+    border: 1px solid white;
+}
+
+#mario_img{
+    width: 100%;
+}
+
+#start , #status{
+    font-size: 18px;
+}
+
+.img1{
+    display: inline;
+    width: 45%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+#footer{
+    
+    margin: 0px;
+    line-height: 2px;
+    background-color: white;
+}

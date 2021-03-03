@@ -37,3 +37,9 @@
     line-height: 2px;
     background-color: white;
 }
+
+video{
+    background: url('game_console.png');
+    background-size : cover;
+    padding: 25px;
+}
